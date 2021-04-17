@@ -1,2 +1,4 @@
 # hello-world
-just another repo
+Hello testing
+
+This is testing purpose repo so dont take it serious!
